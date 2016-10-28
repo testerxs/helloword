@@ -35,9 +35,9 @@ public class TestSeleniumTry {
 		//element1.submit();
 	
 		WebElement element1=driver.findElement(By.name("username"));
-		element1.sendKeys("15828245881");
+		element1.sendKeys("123");
 		WebElement element2=driver.findElement(By.name("password"));
-		element2.sendKeys("0512shmily");
+		element2.sendKeys("0522");
 		WebElement element3=driver.findElement(By.name("btn"));
 		element3.click();
 		File cookiefile=new File("testcookie.txt");
