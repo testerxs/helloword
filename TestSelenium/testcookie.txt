@@ -1,0 +1,18 @@
+bbs_cookietime;31536000;.xcar.com.cn;/;Thu Sep 21 14:25:10 CST 2017;false
+xgame_currweb;http%3A%2F%2Fmy.xcar.com.cn%2F;.xcar.com.cn;/;Wed Sep 21 14:35:14 CST 2016;false
+_Xdwstime;1474439107;.xcar.com.cn;/;Wed Sep 21 14:55:11 CST 2016;false
+Hm_lpvt_53eb54d089f7b5dd4ae2927686b183e0;1474439115;.xcar.com.cn;/;null;false
+uv_firstv_refer;%28%2422%29/logging.php%3Faction%3Dlogin%26referer%3D%252f;.xcar.com.cn;/;Wed Sep 21 14:55:08 CST 2016;false
+xgame_ly;http%3A%2F%2Fmy.xcar.com.cn%2Flogging.php%3Faction%3Dlogin%26referer%3D%252F;.xcar.com.cn;/;Wed Sep 21 14:35:14 CST 2016;false
+uv_firstv_refers;http%3A//my.xcar.com.cn/logging.php%3Faction%3Dlogin%26referer%3D%252F;.xcar.com.cn;/;Wed Sep 21 14:55:15 CST 2016;false
+_discuz_vip;9;.xcar.com.cn;/;Thu Sep 21 14:25:10 CST 2017;false
+_Xdwuv;57e227c0c455e;.xcar.com.cn;/;Thu Sep 21 00:00:04 CST 2017;false
+bbs_auth;Vh3mtQQu%2BhECNSMg6JNFswU04X%2Feu0%2FtOSfZ6sDYVXoN2D6g4%2BtcqYbRLEqkal5DCg;.xcar.com.cn;/;Thu Sep 21 14:25:10 CST 2017;false
+_discuz_pw;8a4d4407955bdee2543a704bec80ea37;.xcar.com.cn;/;Thu Sep 21 14:25:10 CST 2017;false
+_discuz_uid;7820475;.xcar.com.cn;/;Thu Sep 21 14:25:10 CST 2017;false
+BIGipServerpool-c26-xcar-myxcarweb-80;550047498.20480.0000;my.xcar.com.cn;/;null;false
+_xcar_name;knightzhu;.xcar.com.cn;/;Thu Sep 21 14:25:10 CST 2017;false
+__isshowad;no;my.xcar.com.cn;/;Fri Oct 21 14:25:10 CST 2016;false
+Hm_lvt_53eb54d089f7b5dd4ae2927686b183e0;1474439109;.xcar.com.cn;/;Thu Sep 21 14:25:15 CST 2017;false
+bbs_sid;AHK2un;.xcar.com.cn;/;Wed Sep 28 14:25:11 CST 2016;false
+_Xdwnewuv;1;.xcar.com.cn;/;Fri Oct 21 00:00:04 CST 2016;false
